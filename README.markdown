@@ -5,3 +5,4 @@ This is the first application for
 by [Michael Hartl] (http://michaelhartl.com).
 
 Just checking
+Another change
