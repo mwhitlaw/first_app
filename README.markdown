@@ -7,3 +7,4 @@ by [Michael Hartl] (http://michaelhartl.com).
 Just checking
 Another change
 Yet another
+And another
